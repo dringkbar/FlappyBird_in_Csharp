@@ -1,0 +1,10 @@
+D:\왜가리\WF_owl\WF_owl\bin\Debug\WF_owl.exe.config
+D:\왜가리\WF_owl\WF_owl\bin\Debug\WF_owl.exe
+D:\왜가리\WF_owl\WF_owl\bin\Debug\WF_owl.pdb
+D:\왜가리\WF_owl\WF_owl\obj\Debug\WF_owl.csprojAssemblyReference.cache
+D:\왜가리\WF_owl\WF_owl\obj\Debug\WF_owl.Form1.resources
+D:\왜가리\WF_owl\WF_owl\obj\Debug\WF_owl.Properties.Resources.resources
+D:\왜가리\WF_owl\WF_owl\obj\Debug\WF_owl.csproj.GenerateResource.cache
+D:\왜가리\WF_owl\WF_owl\obj\Debug\WF_owl.csproj.CoreCompileInputs.cache
+D:\왜가리\WF_owl\WF_owl\obj\Debug\WF_owl.exe
+D:\왜가리\WF_owl\WF_owl\obj\Debug\WF_owl.pdb
